@@ -80,3 +80,24 @@
 2023-10-13 07:39:52.7159|INFO|Program|movies.scrubbed.csv
 2023-10-13 07:39:52.7633|ERROR|MovieFile|Input string was not in a correct format.
 2023-10-13 07:39:52.7633|INFO|Program|Program ended
+2023-10-24 15:55:48.0016|INFO|Program|Program started
+2023-10-24 15:55:48.0411|INFO|FileScrubber|File already scrubbed
+2023-10-24 15:55:48.0411|INFO|Program|movies.scrubbed.csv
+2023-10-24 15:55:48.0566|ERROR|MovieFile|Input string was not in a correct format.
+2023-10-24 15:55:48.0566|INFO|Program|Program ended
+2023-10-24 16:00:03.6840|INFO|Program|Program started
+2023-10-24 16:00:03.7116|INFO|FileScrubber|File scrub started
+2023-10-24 16:00:03.7362|INFO|FileScrubber|File scrub ended
+2023-10-24 16:00:03.7362|INFO|Program|movies.scrubbed.csv
+2023-10-24 16:00:03.7578|INFO|MovieFile|Movies in file 9125
+2023-10-24 16:00:03.7671|INFO|Program|Program ended
+2023-10-24 16:01:39.8401|INFO|Program|Program started
+2023-10-24 16:01:39.8693|INFO|FileScrubber|File already scrubbed
+2023-10-24 16:01:39.8693|INFO|Program|movies.scrubbed.csv
+2023-10-24 16:01:39.8980|INFO|MovieFile|Movies in file 9125
+2023-10-24 16:01:39.9047|INFO|Program|Program ended
+2023-10-24 16:08:32.3858|INFO|Program|Program started
+2023-10-24 16:08:32.4142|INFO|FileScrubber|File already scrubbed
+2023-10-24 16:08:32.4142|INFO|Program|movies.scrubbed.csv
+2023-10-24 16:08:32.4419|INFO|MovieFile|Movies in file 9125
+2023-10-24 16:08:32.4481|INFO|Program|Program ended

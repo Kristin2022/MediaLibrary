@@ -54,11 +54,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kontr\\Downloads\\MovieLibrary-dotnet-06-master\\MediaLibrary\\MediaLibrary.csproj",
+      "projectUniqueName": "C:\\Users\\kontr\\MediaLibrarySearchLab\\MediaLibrary\\MediaLibrary.csproj",
       "projectName": "MediaLibrary",
-      "projectPath": "C:\\Users\\kontr\\Downloads\\MovieLibrary-dotnet-06-master\\MediaLibrary\\MediaLibrary.csproj",
+      "projectPath": "C:\\Users\\kontr\\MediaLibrarySearchLab\\MediaLibrary\\MediaLibrary.csproj",
       "packagesPath": "C:\\Users\\kontr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kontr\\Downloads\\MovieLibrary-dotnet-06-master\\MediaLibrary\\obj\\",
+      "outputPath": "C:\\Users\\kontr\\MediaLibrarySearchLab\\MediaLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kontr\\AppData\\Roaming\\NuGet\\NuGet.Config"

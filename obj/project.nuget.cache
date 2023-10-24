@@ -1,14 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "LzUqRDOFVcLV+UM4adEA9TtOxbu0bu1CGPNS11ObewEQwvoqhwAm6+tQkz2IPe9/61cxy0s9IgFfgtCPMV4lDg==",
+  "dgSpecHash": "9DaL75EOsgP/RgE8Nk9SUCH1Nq2X7FFIw/fjVUfuFbjhIOacuTBHZeLG9Kxvtubdksi3lkAN7ltu8UM/ccpLEQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kontr\\Downloads\\MovieLibrary-dotnet-06-master\\MediaLibrary\\MediaLibrary.csproj",
+  "projectFilePath": "C:\\Users\\kontr\\MediaLibrarySearchLab\\MediaLibrary\\MediaLibrary.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kontr\\.nuget\\packages\\nlog\\5.1.1\\nlog.5.1.1.nupkg.sha512",
-    "C:\\Users\\kontr\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.21\\microsoft.aspnetcore.app.ref.6.0.21.nupkg.sha512",
-    "C:\\Users\\kontr\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.21\\microsoft.netcore.app.host.win-x64.6.0.21.nupkg.sha512",
     "C:\\Users\\kontr\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.21\\microsoft.netcore.app.ref.6.0.21.nupkg.sha512",
-    "C:\\Users\\kontr\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.21\\microsoft.windowsdesktop.app.ref.6.0.21.nupkg.sha512"
+    "C:\\Users\\kontr\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.21\\microsoft.windowsdesktop.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\kontr\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.21\\microsoft.aspnetcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\kontr\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.21\\microsoft.netcore.app.host.win-x64.6.0.21.nupkg.sha512"
   ],
   "logs": []
 }
